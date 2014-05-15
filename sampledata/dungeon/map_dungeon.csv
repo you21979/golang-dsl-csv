@@ -1,0 +1,4 @@
+#serial_id,map_id,name,attack_npc_flag,attack_pc_flag
+1,10001,zone1,1,1
+2,10001,zone2,1,1
+3,10001,zone3,1,1
